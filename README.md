@@ -6,7 +6,7 @@
 # 上课笔记
 ## Programming skill
 |            | good at             | not good at                  | appliction               |
-|------------|---------------------|------------------------------|--------------------------|
+|:-----------|:--------------------|:-----------------------------|:-------------------------|
 | Linux Bash | string process      | analyze array and matrix     | Pipeline;handling File   |
 | R          | analyze data matrix | handling files and piplines  | statistics;plot;basic ML |
 | Python     | string and data     | handling files and pipelines | ML;DL                    |
