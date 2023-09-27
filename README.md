@@ -13,16 +13,6 @@
 ## 生信学习的两个类型
 **Data problems**: *Represention(graphics),Storage and retrieval(databases),Analysis method(statistics,AI,optimization),etc.*\
 **Biology problems**: *Interpreting biological sequences,Predicting structure or function,mining clinical data and information*
-# 学期计划
-## 课后学习
-每次上课后的周六周日，观看直播回放并补充课堂笔记，看完Videos，写完作业。
-## 自学内容
-### 10月15日前
-完成《鸟哥的Linux私房菜－基础学习篇》推荐章节的学习，穿插《Bioinformatics Data Skills》部分章节的学习
-### 10月31日前
-完成《Bioinformatics Data Skills》全本的学习，穿插《机器学习》部分章节的学习
-### 11月30日前
-完成《机器学习》全本的学习 
 # 课后练习
 ## Git
 [如何使用 Git 和 GitHub 来管理自己的代码](https://cloud.tencent.com/developer/article/1193220)\
@@ -34,3 +24,13 @@
 ## Github Pages
 [官网介绍](https://pages.github.com/)\
 [简书教程](https://www.jianshu.com/p/f82c76b90336)
+# 学期计划
+## 课后学习
+每次上课后的周六周日，观看直播回放并补充课堂笔记，看完Videos，写完作业。
+## 自学内容
+### 10月15日前
+完成《鸟哥的Linux私房菜－基础学习篇》推荐章节的学习，穿插《Bioinformatics Data Skills》部分章节的学习
+### 10月31日前
+完成《Bioinformatics Data Skills》全本的学习，穿插《机器学习》部分章节的学习
+### 11月30日前
+完成《机器学习》全本的学习 
