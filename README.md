@@ -22,8 +22,7 @@
 ### 10月31日前
 完成《Bioinformatics Data Skills》全本的学习，穿插《机器学习》部分章节的学习
 ### 11月30日前
-完成《机器学习》全本的学习
-### 
+完成《机器学习》全本的学习 
 # 课后练习
 ## Git
 [如何使用 Git 和 GitHub 来管理自己的代码](https://cloud.tencent.com/developer/article/1193220)\
